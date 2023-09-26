@@ -1,0 +1,13 @@
+body{
+    background-color: violet ;
+    font-family: sans-serif;
+    font-weight: bold; 
+    color: whitesmoke;
+    background-image:url(https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif) ;
+}
+
+
+
+.cut{
+    text-decoration: line-through;
+}
